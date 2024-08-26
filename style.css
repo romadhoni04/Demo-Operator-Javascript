@@ -1,0 +1,18 @@
+/*google font*/
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@300&amp;display=swap');
+
+#aritmatika{
+	padding-top: 6rem;
+}
+#penugasan, #logika, #ternary, #source{
+	background-color: #f2f2f2;
+}
+#ternary{
+	padding-bottom: 15rem;
+}
+.hasil{
+	font-family: 'Trispace', sans-serif;
+}
+.red{
+	color: #ff0000;
+}
